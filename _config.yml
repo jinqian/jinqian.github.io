@@ -24,9 +24,28 @@ github_username:  jinqian
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
+comments: true
+plugins:
+  - jekyll-archives
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
+
+permalink: /:year/:month/:day/:title/
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Pagination Settings
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
