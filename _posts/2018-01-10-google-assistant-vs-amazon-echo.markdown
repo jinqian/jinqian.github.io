@@ -2,7 +2,7 @@
 layout: post
 title: Google Assistant v.s. Amazon Alexa
 comments: true
-categories: tech
+category: tech
 date: 2018-01-09 21:23:40
 published: false
 ---

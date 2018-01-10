@@ -34,7 +34,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 google_analytics: UA-112336358-1
-permalink: /:year/:month/:day/:title/
 
 jekyll-archives:
   enabled:
