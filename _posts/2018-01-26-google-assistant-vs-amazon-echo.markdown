@@ -24,7 +24,7 @@ The entry point for developers to create applications for Google Assistant is th
 ## Amazon Alexa 
 
 Alexa is Amazon’s cloud-based voice service available on tens of millions of devices from Amazon and third-party device manufacturers. Amazon currently owns a line of Echo products:
-![amazon-echo-family](/assets/image/20180110/amazon-echo-family.png)
+![amazon-echo-family](/assets/image/20180126/amazon-echo-family.png)
 
 - Echo 1st & 2nd generation
 - Echo Dot
@@ -42,11 +42,11 @@ Alexa is Amazon’s cloud-based voice service available on tens of millions of d
 
 DialogFlow (formerly api.ai) is a speech interaction builder, the preferred choice for building an Assistant app:
 
-![dialogflow](/assets/image/20180110/dialogflow.png)
+![dialogflow](/assets/image/20180126/dialogflow.png)
 
 Alexa currently has a beta version of Skill Builder for designing the interaction model (Intents, Slots, and Dialogs) for a Skill:
 
-![alexa-skill-builder](/assets/image/20180110/alexa-skill-builder.png)
+![alexa-skill-builder](/assets/image/20180126/alexa-skill-builder.png)
 
 We can see much resemblance between two tools.
 
