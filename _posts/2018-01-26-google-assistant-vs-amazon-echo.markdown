@@ -11,6 +11,12 @@ with my coworker on voice assistant platforms. We chose [Google Assistant](https
 
 # Overview
 
+At the time of writing, Google Assistant currently supports English (U.S., U.K., Canada, Australia), French, German, and Japanese; Alexa currently supports English (Australia, Canada, India, UK, US), German and Japanese.
+
+You can check following links for updates:
+- [Actions on Google: Language and Locale Support](https://developers.google.com/actions/localization/languages-locales)
+- [Develop Skills in Multiple Languages](https://developer.amazon.com/docs/custom-skills/develop-skills-in-multiple-languages.html)
+
 ## Google Assistant
 
 When talking about Google Assistant, developers tend to mix up different concepts:
